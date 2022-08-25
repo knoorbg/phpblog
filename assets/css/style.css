@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1,h2,p{
+    margin: 0;
+}
+.header-area{
+    background-color: #3366ff;
+    margin-bottom: 20px;
+}
+.site-header{
+    color: #ffffff;
+    padding: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+.site-header h2{
+    margin-bottom: 0;
+}
+.footer-area{
+    background-color: #3366ff;
+    text-align: center;
+    padding: 20px;
+    color: #ffffff;
+}
